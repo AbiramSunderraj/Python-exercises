@@ -10,3 +10,18 @@ print (4%3) #Modular operator
 print ("Hello "*3) #multiply string
 print ('Abiram\'s code') #print with single quotes, escape sequence
 print (r'C:\User\new\Desktop') #process the raw string
+
+
+#Output would be
+#Hello world!
+#3+5
+#8
+#0
+#9
+#27
+#1.0
+#1
+#1
+#Hello Hello Hello 
+#Abiram's code
+#C:\User\new\Desktop
