@@ -15,4 +15,11 @@ print(b)
 #set
 
 x={1,25,655,54,87,0,1} #uses curly braces, Faster execution over list and tuple
-print(x) #prints the output in any form, does not have a specfic form and a value never occur again
+print(x) #prints the output in any form, does not have a specfic order and a value never occur again
+
+
+
+#OUTPUT
+#(25, 30, 14, 87, 25, 65, 54)
+#2
+#{0, 1, 655, 54, 87, 25}
