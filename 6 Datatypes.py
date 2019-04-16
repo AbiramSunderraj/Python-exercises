@@ -48,3 +48,13 @@ print(key)
 print(value)
 keyofabi=dictionary.get("abi")
 print(keyofabi)
+
+
+#OUTPUT:
+#(4+3.5j)
+#False
+#[0, 1, 2, 3, 4]
+#{'abi': '9876543210', 'aks': '9876543211', 'dhars': '9876543212'}
+#dict_keys(['abi', 'aks', 'dhars'])
+#dict_values(['9876543210', '9876543211', '9876543212'])
+#9876543210
