@@ -25,6 +25,9 @@ print(type(name))
 PI=3.14
 print(type(PI))
 
+#NOTE: THERE IS NO CONSTANT IN PYTHON.!
+
+
 #Output
 #8830464
 #8830464
