@@ -7,19 +7,29 @@ if-elif-else-nestedif
 """
 A=int(input("enter value of A: "))
 B=int(input("enter value of B: "))
-if A>=B:
+
+if A>=B:                            #IF BLOCK
     print("A is greater than B.")
-    if A<5:
+    if A<5:                         #NESTED IF
         print("and less than 5")
     elif A==5:
         print("A is equal to 5")
     else:
         print("a is 5")
-elif B>=A:
+elif B>=A:                          #ELIF BLOCK
     print("B is greater than A.")
     if B<=5:
         print("and less than 5")
     else:
         print("greater than 5")
-else:
+else:                               #ELSE BLOCK
     print("Both are equal.")
+    
+    
+    
+    
+#OUTPUT
+#enter value of A: 5
+#enter value of B: 5
+#A is greater than B.
+#A is equal to 5
